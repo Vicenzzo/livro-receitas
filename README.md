@@ -6,3 +6,5 @@ Olá !! Bem vindo ao livro de receitas :strawberry:
 
 - Strogonoff de Frango
 - pure
+- abacate
+- cebola
