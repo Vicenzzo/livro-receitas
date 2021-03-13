@@ -1,10 +1,10 @@
 # Livro de Receitas :man_cook:
 
-
-
-Olá !! Bem vindo ao livro de receitas :strawberry:
+- Olá !! Bem vindo ao livro de receitas :strawberry:
 
 - Strogonoff de Frango
+
 - pure
-- cebola2
-- cebola
+
+- abacate
+
